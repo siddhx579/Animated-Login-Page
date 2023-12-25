@@ -9,6 +9,14 @@
 * A web browser
 * A basic understanding of HTML, CSS, and JavaScript
 
+## Features
+
+* Responsive design
+* Modern and clean design
+* Easy to customize
+* Social icons
+* Toggle between sign up and sign in forms
+
 ## Instructions
 
 To use this code, follow these steps:
